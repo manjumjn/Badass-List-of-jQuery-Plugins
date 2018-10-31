@@ -26,7 +26,8 @@ If you want to add anything new, just fork this repo and send me a pull request.
 ---
 ## Table of Contents
 1. **[Sliders](#sliders)**
-
+2. **[SVG Animations](#svg-animations)**
+3. **[Layout](#layout)**
 
 ## Sliders
 
@@ -37,7 +38,21 @@ If you want to add anything new, just fork this repo and send me a pull request.
 [![fork this repo](http://githubbadges.com/fork.svg?user=kenwheeler&repo=slick&style=flat)](https://github.com/kenwheeler/slick/fork)
 [![downloads](https://img.shields.io/npm/dm/slick.svg)](https://npmjs.org/package/slick)
 
+## SVG Animations
+
+* [Vivus](https://github.com/maxwellito/vivus): JavaScript library to make drawing animation on SVG
+
+[![star this repo](http://githubbadges.com/star.svg?user=maxwellito&repo=vivus&style=flat)](https://github.com/maxwellito/vivus)
+[![fork this repo](http://githubbadges.com/fork.svg?user=maxwellito&repo=vivus&style=flat)](https://github.com/maxwellito/vivus/fork)
+[![downloads](https://img.shields.io/npm/dm/vivus.svg)](https://npmjs.org/package/vivus)
+
 ## Layout
+
+* [Muuri](https://github.com/haltu/muuri): Responsive, sortable, filterable and draggable grid layouts
+
+[![star this repo](http://githubbadges.com/star.svg?user=haltu&repo=muuri&style=flat)](https://github.com/haltu/muuri)
+[![fork this repo](http://githubbadges.com/fork.svg?user=haltu&repo=muuri&style=flat)](https://github.com/haltu/muuri/fork)
+[![downloads](https://img.shields.io/npm/dm/muuri.svg)](https://npmjs.org/package/muuri)
 
 ## UI Element - Popup
 
